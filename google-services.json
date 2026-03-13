@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345508815864",
+    "project_id": "bemo-90754",
+    "storage_bucket": "bemo-90754.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345508815864:android:42b94c94723f3bb9d7ec0d",
+        "android_client_info": {
+          "package_name": "com.harold616.bemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB69zBrr9AD4M2soiuSV1RqJcxrYCOXH0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
